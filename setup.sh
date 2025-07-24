@@ -13,4 +13,4 @@ export HF_TOKEN="$TOKEN"
 export HF_XET_HIGH_PERFORMANCE=1
 huggingface-cli login --token "$TOKEN" --add-to-git-credential=false
 
-# huggingface-cli download black-forest-labs/FLUX.1-Kontext-dev
+huggingface-cli download black-forest-labs/FLUX.1-Kontext-dev
