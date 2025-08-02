@@ -1,0 +1,6 @@
+compute_environment: LOCAL_MACHINE
+deepspeed_config: {}
+distributed_type: NO
+mixed_precision: bf16
+num_processes: 1
+use_cpu: false
